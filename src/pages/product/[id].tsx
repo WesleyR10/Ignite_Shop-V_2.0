@@ -50,7 +50,7 @@ export default function Product({ product }: ProductProps) {
           <p>{product.description}</p>
 
           <button onClick={handleBuyButton}>
-            Comprar agora
+            Adicionar ao carinho
           </button>
         </ProductDetails>
       </ProductContainer>
