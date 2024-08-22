@@ -15,8 +15,8 @@
     "keen-slider": "^6.8.6",
     "next": "14.0.4",
     "phosphor-react": "^1.4.1",
-    "react": "^18",
-    "react-dom": "^18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "scheduler": "^0.23.0",
     "stripe": "^14.11.0",
     "use-context-selector": "^1.4.1"
